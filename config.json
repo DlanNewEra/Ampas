@@ -1,0 +1,6 @@
+{
+  "webhook": "https://webhook.site/31d81903-d9ea-4313-812b-6b19e116dfb4",
+  "switch": "https://raw.githubusercontent.com/DlanNewEra/Dilan-Ampas/refs/heads/main/switch.json",
+  "password": "https://raw.githubusercontent.com/DlanNewEra/Dilan-Ampas/refs/heads/main/key.txt",
+  "database": "https://raw.githubusercontent.com/DlanNewEra/EmperiorData/main/dilan.json"
+}
